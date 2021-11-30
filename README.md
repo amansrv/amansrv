@@ -50,7 +50,7 @@
 
 
 
-## **"You can ask me about!:**
+## **"You can ask to me about!:**
 
 - Front-end development using **React.js**
 - Backend development using **Node.js**
