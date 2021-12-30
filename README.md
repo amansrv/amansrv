@@ -1,4 +1,4 @@
-# **Hlo! I am Aman Srivastava.** <img src="https://github.com/amansrv/main/gifs/hi.gif" width="40px"></h2>
+# **Hlo! I am Aman Srivastava.** 
 
 **ABOUT ME :**
 
