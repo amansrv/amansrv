@@ -3,7 +3,10 @@
 
 >I am an *Developer* by nature and a *engineer*  by passion, a **tech enthusiast**, **an open-source contributor**, **tech blogger**, **motivator** and **mentor**.
 
+>An engineering student with high expertise in **Website and software development.**
+
 >I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vellore Institute of Technology, Bhopal.
+
 
 ## "Find me Interesting! :
 
