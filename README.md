@@ -1,4 +1,5 @@
-## **Hlo! I am Aman Srivastava.**
+# **Hlo! I am Aman Srivastava.** <img src="https://github.com/amansrv/amansrv/blob/main/gifs/hi.gif" width="40px"></h2>
+
 **ABOUT ME :**
 
 >I am an *Developer* by nature and a *engineer*  by passion, a **tech enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
