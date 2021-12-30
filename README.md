@@ -1,11 +1,14 @@
 ## **Hlo! I am Aman Srivastava.**
 **ABOUT ME :**
 
->I am an *Developer* by nature and a *engineer*  by passion, a **tech enthusiast**, **an open-source contributor**, **tech blogger**, **motivator** and **mentor**.
+>I am an *Developer* by nature and a *engineer*  by passion, a **tech enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
 >An engineering student with high expertise in **Website and software development.**
 
+>The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
+
 >I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vellore Institute of Technology, Bhopal.
+
 
 
 ## "Find me Interesting! :
