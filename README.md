@@ -4,7 +4,7 @@
 
 **ABOUT ME :**
 
->I am an *Developer* by nature and a *engineer*  by passion, a **tech enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
+>I am an **Developer** by nature and a **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
 >An engineering student with high expertise in **Website and software development.**
 
