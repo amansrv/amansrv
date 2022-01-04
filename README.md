@@ -75,9 +75,13 @@
 
 ***
  
- <hr>
+<hr>
 
-  <h3 align="center">Visitor's Count!😊 </h3>
-  ![VisitorCount](https://profile-counter.glitch.me/{amansrv}/count.svg) 
+<h3 align="center">Visitor Count !!😊</h3>
+<p align="center">
+  
+  ![VisitorCount!😊!](https://profile-counter.glitch.me/{amansrv}/count.svg) 
+  
+</p>
 
- <hr>
+<hr
