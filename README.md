@@ -6,11 +6,11 @@
 
 >I am an **Developer** by nature and a **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
->An engineering student with high expertise in **Website and software development.**
+>An engineering student with high expertise in **Website and Software Development.**
 
 >The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
 
->I am presently pursuing Btech in *Computer Science Engineering(SCSE)* From Vellore Institute of Technology, Bhopal.
+>I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
 
 
@@ -23,7 +23,7 @@
 ## "Positions! :
 
 - Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
-- Open Source Contribution at **@GSWoC**
+- Open Source Contribution at **@GSWoC'21**
 - Web Developer at **@Antrix Club**
 - Campus Ambassador at **@International Mun Campus**
 
@@ -63,7 +63,7 @@
 
 - Front-end development using **React.js**
 - Backend development using **Node.js**
-- Robust **full-stack system design** implementation
+- Robust **Full-Stack System Design** implementation
 - Solving Data structure and algorithm questions in **C++**
 
 
@@ -77,11 +77,39 @@
  
 <hr>
 
-<h3 align="center">Visitor Count !!😊</h3>
+<h3 align="center">Visitor Count !! 😊</h3>
 <p align="center">
   
-  ![VisitorCount!😊!](https://profile-counter.glitch.me/{amansrv}/count.svg) 
+  ![VisitorCount!!😊](https://profile-counter.glitch.me/{amansrv}/count.svg) 
   
 </p>
 
 <hr
+    
+***
+    
+<h3 align="center">Github Activity📊 !! 😊 </h3>   
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amansrv&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansrv&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=amansrv&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+   <tr><td>😀</td></tr>
+</table>
+    
+    
+ <h3 align="center">Productivity Stats📈 !! 😊</h3>
+ 
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansrv&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+  </tr> 
+   
+ <tr>
+   <td><img src="https://activity-graph.herokuapp.com/graph?username=amansrv&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+  <tr><td>😀</td></tr>
+</table>
