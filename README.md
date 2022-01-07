@@ -86,7 +86,7 @@
  
 <hr>
 
-<h3 align="center">Visitor Count !! 😊</h3>
+<h2 align="center">Visitor Count👨‍💻 !! 😊</h2>
 <p align="center">
   
   ![VisitorCount!!😊](https://profile-counter.glitch.me/{amansrv}/count.svg) 
@@ -97,7 +97,7 @@
     
 ***
     
-<h3 align="center">Github Activity📊 !! 😊 </h3>   
+<h2 align="center">Github Activity📊 !! 😊 </h2>   
    
 <table>
   <tr>
@@ -109,7 +109,7 @@
 </table>
     
     
- <h3 align="center">Productivity Stats📈 !! 😊</h3>
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
  <table>
   <tr>
