@@ -66,6 +66,14 @@
 - Robust **Full-Stack System Design** implementation
 - Solving Data structure and algorithm questions in **C++**
 
+### **"Some More About Me!!**
+ 
+- I’m currently working on **Web Development** using **React.js and Node.js**
+- I’m currently learning DSA and Backend Development
+- Ask me about DSA and Web Development [MERN Development]
+- I’m looking to collaborate on exciting Projects and Hackathons
+- How to reach me: [Linkedin](https://www.linkedin.com/in/aman-srivastava-43b42920a/)
+- Fun fact: What make me more happy?? **To help others and grow-up together**
 
 ## **"Hello World!!**
 
