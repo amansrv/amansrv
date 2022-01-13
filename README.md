@@ -18,6 +18,9 @@
 
 >[![Linkedin Badge](https://img.shields.io/badge/-Aman.Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/aman-srivastava-43b42920a/)](https://www.linkedin.com/in/aman-srivastava-43b42920a/)
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
+
+>[![Twitter Badge](https://img.shields.io/badge/-@Aman.Srivastava-1ca0f1?style=width="20px"&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AmanSri68355587)](https://twitter.com/AmanSri68355587)
+>[![Medium Badge](https://img.shields.io/badge/-@Aman.Srivastava-03a57a?style=width="20px"&flat-square&labelColor=black&logo=Medium&link=https://medium.com/@amansrv/)](https://medium.com/@amansrv)
  
 
 ## "Positions! :
