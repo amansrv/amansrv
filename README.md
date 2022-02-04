@@ -21,7 +21,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Aman.Srivastava-03a57a?style=&flat-square&labelColor=black&logo=Medium&link=https://medium.com/@amansrv/)](https://medium.com/@amansrv)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aman1srv)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/aman.srivastava#7510)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://instagram.com/aman.srivastava___)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aman.srivastava___/)](https://instagram.com/aman.srivastava___)
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
 
 
