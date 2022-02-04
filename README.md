@@ -31,7 +31,7 @@
 ## "Positions! :
 
 - Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
-- Open Source Contribution at **@GSWoC'21**
+- Open Source Contributor at **@GSWoC'21**
 - Web Developer at **@Antrix Club**
 - Tech Blogger at **@Medium**
 - Campus Ambassador at **@International Mun Campus**
