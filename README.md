@@ -72,6 +72,7 @@
 - Front-end development using **React.js**
 - Backend development using **Node.js**
 - Robust **Full-Stack System Design** implementation
+- Creating Scalable Cloud Architecture using **Heroku**
 - Solving Data structure and algorithm questions in **C++**
 
  
