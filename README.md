@@ -1,9 +1,14 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 
-# **Hloo!! I am Aman Srivastava.** 
+<!-- # **Hloo!! I am Aman Srivastava.**  -->
+# **Hlo! I am Aman Srivastava.** 
 
 **ABOUT ME :**
 
+I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. And I am a professional Technical writer.
+
+
+<!-- 
 >I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
 >An engineering student with high expertise in **Website and Software Development.**
@@ -11,7 +16,7 @@
 >The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
 
 >I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
-
+ -->
 
 
 ## "Connect With Me! :
@@ -55,10 +60,10 @@
 
 > ## **Databases:**
 <a href="https://MongoDb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>  
-
+<!-- 
 > ## **Designing and Styling:**
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> -->
 
 > ## **Tools:**
 
@@ -68,15 +73,15 @@
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
 
- ## **"You can ask to me about!:**
+<!--  ## **"You can ask to me about!:**
 
 - Front-end development using **React.js**
 - Backend development using **Node.js**
 - Robust **Full-Stack System Design** implementation
 - Creating Scalable Cloud Architecture using **Heroku**
 - Solving Data structure and algorithm questions in **C++**
-
- 
+ -->
+<!--  
  ## **"Some More About Me!!**
  
 - I’m currently working on **Web Development** using **React.js and Node.js**
@@ -84,7 +89,7 @@
 - Ask me about DSA and Web Development [MERN Development]
 - I’m looking to collaborate on exciting Projects and Hackathons
 - Fun fact: What make me more happy?? **To help others and grow-up together**
- 
+  -->
  
  ## **"Recent Activity!!**
 <!--START_SECTION:activity-->
