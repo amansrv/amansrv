@@ -19,7 +19,8 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
  -->
 
 
-## "Connect With Me! :
+<!-- ## "Connect With Me! : -->
+##  Connect With Me :
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aman.Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/aman-srivastava-43b42920a/)](https://www.linkedin.com/in/aman-srivastava-43b42920a/)
 [![Twitter Badge](https://img.shields.io/badge/-@Aman.Srivastava-1ca0f1?style=&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AmanSri68355587)](https://twitter.com/AmanSri68355587)
@@ -33,7 +34,8 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <!-- This is my coding profile accounts -->
  
 
-## "Positions! :
+<!-- ## "Positions! : -->
+## Positions :
 
 - Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 - Open Source Contributor at **@GSWoC'21**
@@ -42,7 +44,8 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <!-- - Campus Ambassador at **@International Mun Campus** -->
 
 
-## "My skills! :
+<!-- ## "My skills! : -->
+## My skills :
 
 > ##  **Languages:** 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
