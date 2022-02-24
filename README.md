@@ -24,9 +24,9 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 [![Linkedin Badge](https://img.shields.io/badge/-Aman.Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/aman-srivastava-43b42920a/)](https://www.linkedin.com/in/aman-srivastava-43b42920a/)
 [![Twitter Badge](https://img.shields.io/badge/-@Aman.Srivastava-1ca0f1?style=&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AmanSri68355587)](https://twitter.com/AmanSri68355587)
 [![Medium Badge](https://img.shields.io/badge/-@Aman.Srivastava-03a57a?style=&flat-square&labelColor=black&logo=Medium&link=https://medium.com/@amansrv/)](https://medium.com/@amansrv)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aman1srv)
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aman1srv)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/aman.srivastava#7510)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aman.srivastava___/)](https://instagram.com/aman.srivastava___)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aman.srivastava___/)](https://instagram.com/aman.srivastava___) -->
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
 
 
@@ -39,7 +39,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 - Open Source Contributor at **@GSWoC'21**
 - Web Developer at **@Antrix Club**
 - Tech Blogger at **@Medium**
-- Campus Ambassador at **@International Mun Campus**
+<!-- - Campus Ambassador at **@International Mun Campus** -->
 
 
 ## "My skills! :
@@ -91,14 +91,14 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 - Fun fact: What make me more happy?? **To help others and grow-up together**
   -->
  
- ## **"Recent Activity!!**
-<!--START_SECTION:activity-->
+<!--  ## **"Recent Activity!!**
+START_SECTION:activity
  1. 💪Opened PR [#8593](https://github.com/girlscript/winter-of-contributing/pull/8593) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
  2. ☺ Closed PR [#6783](https://github.com/girlscript/winter-of-contributing/pull/6783) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
  3. ❗️ Closed issue [#4614](https://github.com/girlscript/winter-of-contributing/pull/4614) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-<!--  4. ❗️ 
- 5. ❗️ -->
- <!--END_SECTION:activity-->
+ 4. ❗️ 
+ 5. ❗️
+ END_SECTION:activity -->
  
 
  ## **"Hello World!!**
