@@ -1,24 +1,17 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 
 # **Hlo! I am Aman Srivastava.** 
-
 **ABOUT ME :**
-<!-- I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. And I am a professional Technical writer.
- -->
+> I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
->I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
+> An engineering student with high expertise in **Website and Software Development.**
 
->An engineering student with high expertise in **Website and Software Development.**
+> The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
 
->The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
-
->I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
+> I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
 
-
-<!-- ## "Connect With Me! : -->
 ##  Connect With Me :
-
 [![Linkedin Badge](https://img.shields.io/badge/-Aman.Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/aman-srivastava-43b42920a/)](https://www.linkedin.com/in/aman-srivastava-43b42920a/)
 [![Twitter Badge](https://img.shields.io/badge/-@Aman.Srivastava-1ca0f1?style=&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AmanSri68355587)](https://twitter.com/AmanSri68355587)
 [![Medium Badge](https://img.shields.io/badge/-@Aman.Srivastava-03a57a?style=&flat-square&labelColor=black&logo=Medium&link=https://medium.com/@amansrv/)](https://medium.com/@amansrv)
@@ -27,19 +20,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aman.srivastava___/)](https://instagram.com/aman.srivastava___)
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
 
-
 <!-- This is my coding profile accounts -->
  
- ## Positions :
 
+## Positions :
 - Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 - Open Source Contributor at **@GSWoC'21**
 - Web Developer at **@Antrix Club**
 - Tech Blogger at **@Medium**
 - Campus Ambassador at **@International Mun Campus**
 
-## My skills :
 
+## My skills :
 > ##  **Languages:** 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -69,7 +61,6 @@
 
 
 ## **"You can ask to me about!:**
-
 - Front-end development using **React.js**
 - Backend development using **Node.js**
 - Robust **Full-Stack System Design** implementation
@@ -78,7 +69,6 @@
 
  
 ## **"Some More About Me!**
- 
 - I’m currently working on **Web Development** using **React.js and Node.js**
 - I’m currently learning **DSA and Backend Development**
 - Ask me about DSA and Web Development [MERN Development]
@@ -102,12 +92,10 @@
  
 
  ## **"Hello World!!**
-
 > I'm In the cycle of:
-
 ▪️Coding ▪️Programming ▪️Developing ▪️
 
-***
+ ***
  
 <hr>
 
