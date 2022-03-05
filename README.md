@@ -60,7 +60,7 @@
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
 
-## **"You can ask to me about!:**
+## **"You can ask to me about!**
 - Front-end development using **React.js**
 - Backend development using **Node.js**
 - Robust **Full-Stack System Design** implementation
