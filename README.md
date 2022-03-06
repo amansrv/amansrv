@@ -72,7 +72,7 @@
 - I’m currently working on **Web Development** using **React.js and Node.js**
 - I’m currently learning **DSA and Backend Development**
 - Ask me about DSA and Web Development [MERN Development]
-- I’m looking to collaborate on exciting Projects and Hackathons
+- I’m looking to collaborate on exciting Open-Source Projects and Hackathons
 - Fun fact: What make me more happy?? **To help others and grow-up together**
  
  
