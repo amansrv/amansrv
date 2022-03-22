@@ -1,6 +1,6 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 
-<img align="center" src="glow.mp4">
+<img align="center" src="glow.png">
 
 
 # **Hlo! I am Aman Srivastava.** 
