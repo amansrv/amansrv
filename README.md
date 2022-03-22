@@ -1,5 +1,8 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 
+<img align="center" src="glow.mp4">
+
+
 # **Hlo! I am Aman Srivastava.** 
 **ABOUT ME :**
 > I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
