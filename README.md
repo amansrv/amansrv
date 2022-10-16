@@ -89,7 +89,7 @@
 1. 💪Opened PR [#8593](https://github.com/girlscript/winter-of-contributing/pull/8593) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 2. ☺ Closed PR [#6783](https://github.com/girlscript/winter-of-contributing/pull/6783) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 3. ❗️ Closed issue [#4614](https://github.com/girlscript/winter-of-contributing/pull/4614) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
- 
+4. ☺ Closed PR [#2](https://github.com/pawiie/DSA/pull/2) in [HacktoberFest 22](https://hacktoberfest.com/)
 <!--  4. ❗️ 
  5. ❗️
  END_SECTION:activity -->
