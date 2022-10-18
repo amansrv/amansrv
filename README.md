@@ -2,7 +2,7 @@
 
 <img align="center" src="pic-1.png">
 
-# **Hlo! I am Aman Srivastava.** 
+# **Hello! I am Aman Srivastava** 
 **ABOUT ME :**
 > I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
