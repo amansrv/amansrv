@@ -23,7 +23,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
 
 
-<!-- This is my coding profile accounts -->
+## Coding Accounts:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/##########/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/#########)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/##########)
@@ -128,14 +128,6 @@
     
  <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
- <table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansrv&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
-  </tr> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansrv&theme=monokai"  display=block width=100% height=auto  alt="1" >
    
- <tr>
-   <td><img src="https://activity-graph.herokuapp.com/graph?username=amansrv&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
-  <tr><td>😀</td></tr>
-</table>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amansrv&bg_color=4b4d81&color=fcfcfc&line=45e8e5&point=78d756&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
