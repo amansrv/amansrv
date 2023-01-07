@@ -1,9 +1,9 @@
 <h3 align="center"> <p>Welcome !! To My Profile, Visitors.😄</p> </h3>
-
 <img align="center" src="pic-1.png">
 
 # **Hello! I am Aman Srivastava** 
-**ABOUT ME :**
+
+**ABOUT ME:**
 > I am a **Developer** by nature and an **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor**, **Tech Blogger**, **Motivator** and **Mentor**.
 
 > An engineering student with high expertise in **Website and Software Development.**
@@ -92,7 +92,7 @@
 4. ☺ Closed PR [#2](https://github.com/pawiie/DSA/pull/2) in [HacktoberFest 22](https://hacktoberfest.com/)
 <!--  4. ❗️ 
  5. ❗️
- END_SECTION:activity -->
+END_SECTION:activity -->
  
 
  ## **"Hello World!!**
