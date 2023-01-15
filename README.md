@@ -66,20 +66,22 @@
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
 
-## **"You can ask to me about!**
-- Front-end development using **React.js**
-- Backend development using **Node.js**
-- Robust **Full-Stack System Design** implementation
-- Creating Scalable Cloud Architecture using **Heroku**
-- Solving Data structure and algorithm questions in **C++**
+## **"You Can Ask To Me About!**
+- 🔴Front-end Development Using **React.js**
+- 🟠Backend Development Using **Node.js**
+- 🟢Robust **Full-Stack System Design** Implementation
+- 🟣Creating Scalable Cloud Architecture Using **Heroku**
+- 🟤Solving Data structures & algorithms question in **C++**
+- 🟡Knowledge Of Core Subjects like **OOPS**, **OS**, **DBMS**, **CN**, **Engineering Design**
 
  
 ## **"Some More About Me!**
-- I’m currently working on **Web Development** using **React.js and Node.js**
-- I’m currently learning **DSA and Backend Development**
-- Ask me about DSA and Web Development [MERN Development]
-- I’m looking to collaborate on exciting Open-Source Projects and Hackathons
-- Fun fact: What make me more happy?? **To help others and grow-up together**
+- 🔴I’m Currently Working On **Web Development** using **React.js and Node.js**
+- 🟠I’m Currently Learning **DSA and Backend Development**
+- 🟢Ask me about DSA and Web Development **[MERN Development]**
+- 🟣I’m looking to collaborate on exciting Open-Source Projects and Hackathons
+- 🟤Fun fact: What make me more happy?? **To help others and grow-up together👻**
+- 🟡I Am Aspiring For **Cloud-Developer**
  
  
 ## **"Recent Activity!**
@@ -90,8 +92,7 @@
 2. ☺ Closed PR [#6783](https://github.com/girlscript/winter-of-contributing/pull/6783) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 3. ❗️ Closed issue [#4614](https://github.com/girlscript/winter-of-contributing/pull/4614) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 4. ☺ Closed PR [#2](https://github.com/pawiie/DSA/pull/2) in [HacktoberFest 22](https://hacktoberfest.com/)
-<!--  4. ❗️ 
- 5. ❗️
+
 END_SECTION:activity -->
  
 
