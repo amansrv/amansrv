@@ -23,7 +23,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
 
 
-## Coding Accounts:
+## Coding Account:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/##########/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/#########)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/##########)
@@ -84,7 +84,7 @@
 - 🟡I Am Aspiring For **Cloud-Developer**
  
  
-## **"Recent Activity!**
+## **"Open-Source Work: Recent Activity!**
 
 <!-- START_SECTION:activity -->
 
