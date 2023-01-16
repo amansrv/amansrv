@@ -107,13 +107,15 @@
  ***
  
 <hr>
-<h2 align="center">Visitor Count👨‍💻 !! 😊</h2>
-<p align="center">
+
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Apurva-tech}/count.svg">
   
-  ![VisitorCount!!😊](https://profile-counter.glitch.me/{amansrv}/count.svg) 
+  ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)  
   
-</p>
-</hr>
+</a>
+
+<hr>
     
 ***
     
