@@ -94,11 +94,11 @@
 3. ❗️ Closed issue [#4614](https://github.com/girlscript/winter-of-contributing/pull/4614) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 4. ☺ Closed PR [#2](https://github.com/pawiie/DSA/pull/2) in [HacktoberFest 22](https://hacktoberfest.com/)
 5. ☺ Closed PR [#228](https://github.com/BlackTimber-Labs/Portfolio-Website/pull/228) in [HacktoberFest 22](https://hacktoberfest.com/)
-6. ❗️ Closed issue [#14](https://github.com/pawiie/DSA/issues/14) in [HacktoberFest 22](HacktoberFest 22](https://hacktoberfest.com/)
-7. ❗️ Closed issue [#13](https://github.com/pawiie/DSA/issues/13) in [HacktoberFest 22](HacktoberFest 22](https://hacktoberfest.com/)
-8. ❗️ Closed issue [#12](https://github.com/pawiie/DSA/issues/12) in [HacktoberFest 22](HacktoberFest 22](https://hacktoberfest.com/)
-9. ☺ Closed PR [#17](https://github.com/pawiie/DSA/pull/17) in [HacktoberFest 22](HacktoberFest 22](https://hacktoberfest.com/)
-10. ☺ Closed PR [#11](https://github.com/pawiie/DSA/pull/11) in [HacktoberFest 22](HacktoberFest 22](https://hacktoberfest.com/)
+6. ❗️ Closed issue [#14](https://github.com/pawiie/DSA/issues/14) in [HacktoberFest 22](https://hacktoberfest.com/)
+7. ❗️ Closed issue [#13](https://github.com/pawiie/DSA/issues/13) in [HacktoberFest 22](https://hacktoberfest.com/)
+8. ❗️ Closed issue [#12](https://github.com/pawiie/DSA/issues/12) in [HacktoberFest 22](https://hacktoberfest.com/)
+9. ☺ Closed PR [#17](https://github.com/pawiie/DSA/pull/17) in [HacktoberFest 22](https://hacktoberfest.com/)
+10. ☺ Closed PR [#11](https://github.com/pawiie/DSA/pull/11) in [HacktoberFest 22](https://hacktoberfest.com/)
 
 <!-- END_SECTION:activity -->
  
